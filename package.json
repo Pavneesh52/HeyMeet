@@ -1,0 +1,23 @@
+{
+  "name": "heymeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityahacks123/HeyMeet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityahacks123/HeyMeet/issues"
+  },
+  "homepage": "https://github.com/adityahacks123/HeyMeet#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
